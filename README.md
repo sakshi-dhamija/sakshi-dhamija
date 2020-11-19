@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secrashi&layout=compact)](https://github.com/secrashi/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secrashi&theme=tokyonight)
+
+
  🔭 I’m a 2nd year student at IIIT Gwalior.
 
  🌱 I’m currently learning Augmented Reality and Virtual Reality.
