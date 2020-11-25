@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 📫 How to reach me: 
  - <img src= " https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/> 8349046111
  - <img src= "https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> sakshidhamija15@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secrashi&theme=tokyonight)
 -->
  
 
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secrashi&layout=compact)](https://github.com/secrashi/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secrashi&theme=tokyonight)
+
 
 
  🔭 I’m a 2nd year student at IIIT Gwalior.
