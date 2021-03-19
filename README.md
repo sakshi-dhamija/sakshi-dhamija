@@ -20,6 +20,7 @@ Here are some ideas to get you started:
  💬 Reach out to me for designing web page, building websites from scratch, handling the backends, and definitely for reccomending some awesome books.
   
  ⚡ Fun fact: I'm neither tea nor coffee person!
+ <img src="https://github.com/secrashi/secrashi/blob/main/images/stat.svg" alt="WakaTime Activity"/>
 -->
  
 
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secrashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://github.com/secrashi/secrashi/blob/main/images/stat.svg" alt="WakaTime Activity"/>
+
 
 
 
