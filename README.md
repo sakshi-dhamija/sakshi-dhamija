@@ -31,13 +31,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 April, 2021 - 15 April, 2021
+Week: 09 April, 2021 - 16 April, 2021
 
-CSS          1 hr 20 mins    ██████████▓░░░░░░░░░░░░░░   43.17 % 
-JavaScript   1 hr 7 mins     █████████░░░░░░░░░░░░░░░░   36.23 % 
-HTML         35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+JavaScript   52 mins         ██████████████▓░░░░░░░░░░   58.30 % 
+HTML         30 mins         ████████▒░░░░░░░░░░░░░░░░   33.41 % 
+CSS          6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 <!--END_SECTION:waka-->
 
