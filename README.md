@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 April, 2021 - 22 April, 2021
+Week: 16 April, 2021 - 23 April, 2021
 
-JavaScript   5 mins          █████████████████████████   100.00 % 
+HTML         1 hr 2 mins     ████████████████████░░░░░   79.37 % 
+JavaScript   10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+CSS          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 ```
 <!--END_SECTION:waka-->
 
