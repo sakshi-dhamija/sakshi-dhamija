@@ -53,9 +53,15 @@ Here are some ideas to get you started:
  
 ### <h1 align='center'>```printStats();``` </h1>
 
+
+<h2 align='center'>GitHub Stats</h2>
+ 
+ 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=secrashi&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secrashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align='center'>Wakatime Stats</h2>
 
 <!--START_SECTION:waka-->
 ```text
