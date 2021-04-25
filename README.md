@@ -51,7 +51,15 @@ Here are some ideas to get you started:
        listen= 'gate_smashers'
        compete= 'codeforces'
  ```
- 
+ ```javascript
+ Connect()
+ {
+   Linkedln: https://www.linkedin.com/in/s15/ 
+   Gmail: sakshidhamija15@gmail.com 
+   Quora: https://www.quora.com/profile/Sakshi-561
+   Instagram: https://www.instagram.com/_._s.e.r.i.o.u.s.l.y_._/
+ }
+ ```
 ### <h1 align='center'>Stats();</h1>
 
 
