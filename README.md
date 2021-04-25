@@ -1,4 +1,4 @@
-### Heyy 👋
+### <h1 align='center'>```cout<<"Salut en français👋";```</h1>
 
 <!--
 **secrashi/secrashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +22,36 @@ Here are some ideas to get you started:
  ⚡ Fun fact: I'm neither tea nor coffee person!
  <img src="https://github.com/secrashi/secrashi/blob/main/images/stat.svg" alt="WakaTime Activity"/>
 -->
- 
 
+
+ ```C++
+ short whoAmI( ){
+    user='Sakshi Dhamija';
+    currentEducation='IIIT Gwalior';
+    degree= 'Btech, 2nd year';
+    technologies[]: {WebDevelopment, GraphicDesigning, InternetOfThings};
+    return height;
+ }
+ ```
+ ```Javascript
+ function dailyTimeSpent(){
+  code= 0.05;
+  debug= 0.6;
+  write= 0.15;
+  read= 0.2;
+ }
+ 
+ ```
+ 
+ ```python
+ class Current:
+       contribute= 'open_source'
+       read= 'think_and_grow_rich'
+       listen= 'gate_smashers'
+       compete= 'codeforces'
+ ```
+ 
+### <h1 align='center'>```printStats();``` </h1>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=secrashi&show_icons=true&theme=highcontrast)
 
