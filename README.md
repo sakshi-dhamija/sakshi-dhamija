@@ -1,4 +1,4 @@
-### <h1 align='center'>```cout<<"Salut en français👋";```</h1>
+### <h1 align='center'>Salut en français👋</h1>
 
 <!--
 **secrashi/secrashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secrashi&theme=tokyonight)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=secrashi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secrashi&layout=compact)](https://github.com/secrashi/github-readme-stats)
+[![Instagram Badge](https://img.shields.io/badge/-@savi.1311-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/savi.1311/)](https://www.instagram.com/savi.1311/)
 
 🔭 I’m a 2nd year student at IIIT Gwalior.
 
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
        compete= 'codeforces'
  ```
  
-### <h1 align='center'>```printStats();``` </h1>
+### <h1 align='center'>Stats();</h1>
 
 
 <h2 align='center'>GitHub Stats</h2>
@@ -74,6 +75,3 @@ CSS          50 mins         ███░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-
-
- 
