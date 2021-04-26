@@ -74,11 +74,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 April, 2021 - 24 April, 2021
+Week: 18 April, 2021 - 25 April, 2021
 
-JavaScript   3 hrs 33 mins   █████████████░░░░░░░░░░░░   52.50 % 
-HTML         2 hrs 22 mins   ████████▓░░░░░░░░░░░░░░░░   35.05 % 
-CSS          50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+JavaScript   5 hrs 8 mins    █████████████▒░░░░░░░░░░░   52.81 % 
+HTML         3 hrs 45 mins   █████████▓░░░░░░░░░░░░░░░   38.48 % 
+CSS          50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 ```
 <!--END_SECTION:waka-->
 
