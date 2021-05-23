@@ -74,12 +74,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 May, 2021 - 21 May, 2021
+Week: 15 May, 2021 - 22 May, 2021
 
-CSS          4 hrs 57 mins   ███████████████░░░░░░░░░░   60.34 % 
-JavaScript   2 hrs 59 mins   █████████░░░░░░░░░░░░░░░░   36.39 % 
-HTML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+CSS          4 hrs 36 mins   ████████████████▓░░░░░░░░   67.30 % 
+JavaScript   2 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   31.22 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 <!--END_SECTION:waka-->
 
