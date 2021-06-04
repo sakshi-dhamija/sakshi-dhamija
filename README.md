@@ -74,9 +74,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 May, 2021 - 02 June, 2021
-
-HTML   13 mins         ███████████████████████▓░   94.09 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
