@@ -74,12 +74,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 June, 2021 - 30 June, 2021
+Week: 25 June, 2021 - 01 July, 2021
 
-JSON         39 mins         ████████████████▒░░░░░░░░   64.98 % 
-JavaScript   16 mins         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-HTML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-CSS          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+JSON         4 mins          ██████████████████░░░░░░░   72.59 % 
+JavaScript   1 min           ███████░░░░░░░░░░░░░░░░░░   27.41 % 
 ```
 <!--END_SECTION:waka-->
 
