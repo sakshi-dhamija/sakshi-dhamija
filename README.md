@@ -74,10 +74,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 July, 2021 - 26 July, 2021
+Week: 21 July, 2021 - 27 July, 2021
 
-JavaScript   2 hrs 36 mins   █████████████████████░░░░   83.48 % 
-CSS          31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+JavaScript   2 hrs 35 mins   ███████████████████░░░░░░   76.05 % 
+CSS          48 mins         ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
 ```
 <!--END_SECTION:waka-->
 
