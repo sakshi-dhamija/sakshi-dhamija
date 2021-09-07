@@ -74,7 +74,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 August, 2021 - 06 September, 2021
+
+JavaScript   1 hr 55 mins    █████████████░░░░░░░░░░░░   52.10 % 
+JSX          1 hr 40 mins    ███████████▒░░░░░░░░░░░░░   45.24 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 <!--END_SECTION:waka-->
 
