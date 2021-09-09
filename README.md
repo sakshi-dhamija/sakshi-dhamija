@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2021 - 07 September, 2021
+Week: 02 September, 2021 - 08 September, 2021
 
 JavaScript   1 hr 55 mins    █████████████░░░░░░░░░░░░   52.10 % 
 JSX          1 hr 40 mins    ███████████▒░░░░░░░░░░░░░   45.24 % 
