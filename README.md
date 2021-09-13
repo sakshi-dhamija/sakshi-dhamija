@@ -25,12 +25,14 @@ Here are some ideas to get you started:
 -->
 
 
+
+
  ```C++
  short whoAmI( ){
     user='Sakshi Dhamija';
     currentEducation='IIIT Gwalior';
     degree= 'Btech, 2nd year';
-    technologies[]: {WebDevelopment, GraphicDesigning, InternetOfThings};
+    technologies[]= {WebDevelopment, GraphicDesigning, InternetOfThings};
     return height;
  }
  ```
@@ -61,7 +63,9 @@ Here are some ideas to get you started:
  }
  ``` -->
 <!-- ### <h1 align='center'>Stats();</h1> -->
+Visitor Count:
 
+![Visitor Count](https://profile-counter.glitch.me/secrashi/count.svg) 
 
 <h2 align='center'>GitHub Stats</h2>
  
