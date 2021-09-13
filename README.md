@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
  ```C++
- short whoAmI( ){
+ short whoAmI(){
     user='Sakshi Dhamija';
     currentEducation='IIIT Gwalior';
     degree= 'Btech, 2nd year';
@@ -48,10 +48,10 @@ Here are some ideas to get you started:
  
  ```python
  class Current:
-       contribute= 'open_source'
-       read= 'think_and_grow_rich'
-       listen= 'gate_smashers'
-       compete= 'codeforces'
+       contribute: 'open_source'
+       read: 'subtle_art_of_not_giving_a_fuck'
+       listen: 'gate_smashers'
+       practice: 'geeksforgeeks'
  ```
 <!--  ```javascript
  Connect()
@@ -67,7 +67,7 @@ Visitor Count:
 
 ![Visitor Count](https://profile-counter.glitch.me/secrashi/count.svg) 
 
-# Todoist Stats
+<h2 align='center'>Todoist Stats</h2>
 
 <!-- TODO-IST:START -->
 🏆  100 Karma Points           
