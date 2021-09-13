@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     return height;
  }
  ```
- ```Javascript
+<!--  ```Javascript
  function dailyTimeSpent(){
   code= 0.05;
   debug= 0.6;
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   read= 0.2;
  }
  
- ```
+ ``` -->
  
  ```python
  class Current:
@@ -51,16 +51,16 @@ Here are some ideas to get you started:
        listen= 'gate_smashers'
        compete= 'codeforces'
  ```
- ```javascript
+<!--  ```javascript
  Connect()
  {
    Linkedln: https://www.linkedin.com/in/s15/ 
    Gmail: sakshidhamija15@gmail.com 
    Quora: https://www.quora.com/profile/Sakshi-561
-   Instagram: https://www.instagram.com/_._s.e.r.i.o.u.s.l.y_._/
+   Instagram: https://www.instagram.com/_._s.i.r.i.u.s.l.y_._/
  }
- ```
-### <h1 align='center'>Stats();</h1>
+ ``` -->
+<!-- ### <h1 align='center'>Stats();</h1> -->
 
 
 <h2 align='center'>GitHub Stats</h2>
