@@ -67,6 +67,11 @@ Visitor Count:
 
 ![Visitor Count](https://profile-counter.glitch.me/secrashi/count.svg) 
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 <h2 align='center'>GitHub Stats</h2>
  
  
