@@ -87,10 +87,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2021 - 12 September, 2021
-
-JavaScript   1 hr 31 mins    ████████████████████████░   95.95 % 
-JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
