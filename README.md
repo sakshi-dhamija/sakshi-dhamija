@@ -87,12 +87,12 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 September, 2021 - 28 September, 2021
+Week: 23 September, 2021 - 29 September, 2021
 
-JSX          1 hr 40 mins    █████████████████████░░░░   83.72 % 
-JavaScript   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-CSS          7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+JSX          3 hrs 21 mins   ██████████████████▒░░░░░░   73.67 % 
+CSS          55 mins         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+JavaScript   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
 
