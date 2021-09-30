@@ -76,10 +76,9 @@ Visitor Count:
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=secrashi)](https://git.io/streak-stats)
-
-
 <h2 align='center'>GitHub Stats</h2>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=secrashi)](https://git.io/streak-stats)
  
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=secrashi&show_icons=true&theme=highcontrast)
