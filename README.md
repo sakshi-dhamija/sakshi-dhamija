@@ -89,13 +89,13 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2021 - 05 October, 2021
+Week: 30 September, 2021 - 06 October, 2021
 
-JSX          8 hrs 27 mins   ███████████████░░░░░░░░░░   60.08 % 
-JavaScript   2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Markdown     1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-CSS          48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Git Config   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+JSX          6 hrs 47 mins   ██████████████▓░░░░░░░░░░   58.82 % 
+JavaScript   2 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Markdown     1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Git Config   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Bash         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 <!--END_SECTION:waka-->
 
