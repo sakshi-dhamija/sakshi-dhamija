@@ -70,10 +70,10 @@ Visitor Count:
 <h2 align='center'>Todoist Stats</h2>
 
 <!-- TODO-IST:START -->
-🏆  877 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 16 tasks so far           
-⏳  Longest streak is 0 days
+🏆  920 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 18 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
 <h2 align='center'>GitHub Stats</h2>
