@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  ```python
  class Current:
        contribute: 'open_source'
-       read: 'subtle_art_of_not_giving_a_fuck'
+       read: 'The Alchemist'
        listen: 'gate_smashers'
        practice: 'geeksforgeeks'
  ```
