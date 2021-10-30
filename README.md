@@ -89,7 +89,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2021 - 28 October, 2021
+Week: 23 October, 2021 - 29 October, 2021
 
 JSX          30 mins         █████████████████████▓░░░   87.22 % 
 Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
