@@ -70,7 +70,7 @@ Visitor Count:
 <h2 align='center'>Todoist Stats</h2>
 
 <!-- TODO-IST:START -->
-🏆  1,310 Karma Points           
+🏆  1,396 Karma Points           
 🌸  Completed 2 tasks today           
 ✅  Completed 40 tasks so far           
 ⏳  Longest streak is 2 days
