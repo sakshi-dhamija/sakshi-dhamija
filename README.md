@@ -89,10 +89,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2021 - 17 November, 2021
-
-JSON         30 mins         ████████████████▓░░░░░░░░   67.26 % 
-JavaScript   14 mins         ████████▒░░░░░░░░░░░░░░░░   32.74 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
