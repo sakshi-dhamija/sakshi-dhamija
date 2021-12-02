@@ -83,10 +83,10 @@ Visitor Count:
 <h2 align='center'>Daily Stats</h2>
 
 <!-- TODO-IST:START -->
-🏆  3,449 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 120 tasks so far           
-⏳  Longest streak is 10 days
+🏆  3,569 Karma Points           
+🌸  Completed 7 tasks today           
+✅  Completed 124 tasks so far           
+⏳  Longest streak is 11 days
 <!-- TODO-IST:END -->
 
 <h2 align='center'>Weekly Stats</h2>
