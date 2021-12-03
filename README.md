@@ -93,7 +93,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 November, 2021 - 01 December, 2021
+Week: 26 November, 2021 - 02 December, 2021
 
 Python       41 mins         ████████▒░░░░░░░░░░░░░░░░   33.08 % 
 HTML         30 mins         ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
