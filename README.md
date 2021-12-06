@@ -93,11 +93,11 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 November, 2021 - 04 December, 2021
+Week: 29 November, 2021 - 05 December, 2021
 
-Python   41 mins         ███████████████▓░░░░░░░░░   62.19 % 
-SCSS     23 mins         █████████░░░░░░░░░░░░░░░░   35.59 % 
-JSX      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Python   41 mins         █████████████████░░░░░░░░   67.72 % 
+SCSS     18 mins         ███████▓░░░░░░░░░░░░░░░░░   30.04 % 
+JSX      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 <!--END_SECTION:waka-->
 
