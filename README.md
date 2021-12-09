@@ -93,10 +93,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2021 - 07 December, 2021
-
-SCSS     18 mins         ███████████████████████▒░   93.85 % 
-JSX      1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
