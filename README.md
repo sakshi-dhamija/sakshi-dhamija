@@ -93,7 +93,13 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 08 December, 2021 - 14 December, 2021
+
+JavaScript   33 mins         ██████████▒░░░░░░░░░░░░░░   41.79 % 
+HTML         28 mins         █████████░░░░░░░░░░░░░░░░   35.47 % 
+JSON         14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 <!--END_SECTION:waka-->
 
