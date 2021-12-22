@@ -93,13 +93,12 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
-JavaScript   3 hrs 43 mins   ███████████████████▒░░░░░   77.80 % 
-HTML         32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-JSON         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-SCSS         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+JavaScript   3 hrs 10 mins   ███████████████████████░░   91.45 % 
+SCSS         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+HTML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 <!--END_SECTION:waka-->
 
