@@ -80,16 +80,9 @@ Visitor Count:
 
 ![Visitor Count](https://profile-counter.glitch.me/secrashi/count.svg) 
 
-<h2 align='center'>Daily Stats</h2>
 
-<!-- TODO-IST:START -->
-🏆  4,274 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 173 tasks so far           
-⏳  Longest streak is 11 days
-<!-- TODO-IST:END -->
 
-<h2 align='center'>Weekly Stats</h2>
+<h2 align='center'>Wakatime Stats</h2>
 
 <!--START_SECTION:waka-->
 ```text
