@@ -86,9 +86,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2021 - 28 December, 2021
-
-C++     3 mins          ██████████████████████░░░   87.35 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
