@@ -86,7 +86,10 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 24 December, 2021 - 30 December, 2021
+
+Go        48 mins         ████████████████████▓░░░░   82.76 % 
+Cheetah   10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.24 % 
 ```
 <!--END_SECTION:waka-->
 
