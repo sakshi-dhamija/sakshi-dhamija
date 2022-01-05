@@ -86,10 +86,10 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 29 December, 2021 - 04 January, 2022
 
-Go        48 mins         ████████████████████▓░░░░   82.76 % 
-Cheetah   10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Go        55 mins         █████████████████████░░░░   84.52 % 
+Cheetah   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
 ```
 <!--END_SECTION:waka-->
 
