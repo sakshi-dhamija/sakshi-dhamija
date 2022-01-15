@@ -86,7 +86,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 13 January, 2022
+Week: 08 January, 2022 - 14 January, 2022
 
 TypeScript   50 mins         █████████████░░░░░░░░░░░░   51.83 % 
 Bash         32 mins         ████████▒░░░░░░░░░░░░░░░░   32.75 % 
