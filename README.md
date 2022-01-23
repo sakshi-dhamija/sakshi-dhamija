@@ -86,7 +86,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2022 - 21 January, 2022
+Week: 16 January, 2022 - 22 January, 2022
 
 Bash         13 mins         ███████████▓░░░░░░░░░░░░░   47.19 % 
 JavaScript   11 mins         ██████████▒░░░░░░░░░░░░░░   40.80 % 
