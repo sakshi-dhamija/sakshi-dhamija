@@ -86,7 +86,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2022 - 25 January, 2022
+Week: 20 January, 2022 - 26 January, 2022
 
 Bash       13 mins         ████████████████████░░░░░   79.71 % 
 Makefile   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
