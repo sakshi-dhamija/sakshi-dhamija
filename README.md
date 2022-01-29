@@ -86,11 +86,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
-
-Bash       13 mins         ████████████████████░░░░░   79.71 % 
-Makefile   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Markdown   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
