@@ -86,7 +86,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
 Python   53 mins         █████████████████████████   99.75 % 
 ```
