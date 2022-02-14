@@ -86,9 +86,7 @@ Visitor Count:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2022 - 12 February, 2022
-
-Python   53 mins         █████████████████████████   99.75 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
