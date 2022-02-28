@@ -85,11 +85,15 @@ Visitor Count:
 <h2 align='center'>Wakatime Stats</h2>
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-Python   53 mins         █████████████████████████   99.54 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Python   1 hr 4 mins     ████████████████████▒░░░░   80.97 %
+C++      14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
+
 <!--END_SECTION:waka-->
 
 
