@@ -87,11 +87,10 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 February 2022 - To: 03 March 2022
+From: 25 February 2022 - To: 04 March 2022
 
-C++      14 mins         █████████████▓░░░░░░░░░░░   54.87 %
-Python   11 mins         ██████████▓░░░░░░░░░░░░░░   43.07 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Python   11 mins         ████████████████████████░   96.23 %
+Other    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
