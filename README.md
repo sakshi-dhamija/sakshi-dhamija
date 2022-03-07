@@ -87,10 +87,7 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2022 - To: 05 March 2022
-
-Python   11 mins         ████████████████████████░   96.23 %
-Other    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
