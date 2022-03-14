@@ -82,7 +82,7 @@ Visitor Count:
 
 
 
-<h2 align='center'>Wakatime Stats</h2>
+<h2 align='center'>Stats</h2>
 
 <!--START_SECTION:waka-->
 
@@ -99,9 +99,12 @@ Since then I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> 
 </p>
  -->
 
-<h2 align='center'>GitHub Stats</h2>
+<!-- <h2 align='center'>GitHub Stats</h2> -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=secrashi)](https://git.io/streak-stats) -->
+ 
+ ![Leetcode Stats](https://leetcode.card.workers.dev/?username=think_upon_it&theme=unicorn)
+ 
  
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=secrashi&show_icons=true&theme=highcontrast)
