@@ -87,10 +87,7 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 March 2022 - To: 24 March 2022
-
-C++    9 mins          ████████████████████████▓   99.00 %
-JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
