@@ -87,9 +87,10 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2022 - To: 13 April 2022
+From: 07 April 2022 - To: 14 April 2022
 
-Python   4 mins          █████████████████████████   100.00 %
+Python   4 mins          ████████████████████████▒   97.74 %
+JSON     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
