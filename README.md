@@ -87,10 +87,7 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2022 - To: 30 April 2022
-
-JavaScript   54 mins         ████████████████▓░░░░░░░░   66.61 %
-CSS          27 mins         ████████▒░░░░░░░░░░░░░░░░   33.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
