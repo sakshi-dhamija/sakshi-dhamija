@@ -87,7 +87,7 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
+From: 01 June 2022 - To: 08 June 2022
 
 C++     0 secs          █████████████░░░░░░░░░░░░   52.65 %
 Other   0 secs          ████████████░░░░░░░░░░░░░   47.35 %
