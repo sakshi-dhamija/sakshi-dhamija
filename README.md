@@ -87,10 +87,7 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 June 2022 - To: 10 June 2022
-
-C++     0 secs          █████████████░░░░░░░░░░░░   52.65 %
-Other   0 secs          ████████████░░░░░░░░░░░░░   47.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
