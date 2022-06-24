@@ -87,7 +87,12 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 16 June 2022 - To: 23 June 2022
+
+JSON         9 mins          ██████████████████████▓░░   91.16 %
+CSS          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
