@@ -87,10 +87,7 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 09 September 2022
-
-JavaScript   9 mins          ████████████████████████▒   97.37 %
-CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
