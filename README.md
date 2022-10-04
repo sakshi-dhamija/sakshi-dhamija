@@ -87,7 +87,10 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 September 2022 - To: 03 October 2022
+
+C++     2 hrs 8 mins    ████████████████████████▓   98.92 %
+Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
