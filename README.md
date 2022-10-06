@@ -87,11 +87,13 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 September 2022 - To: 04 October 2022
+From: 28 September 2022 - To: 05 October 2022
 
-C++          2 hrs 9 mins    ███████████████████████▒░   93.52 %
-JavaScript   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+JavaScript   4 hrs 13 mins   ███████████████░░░░░░░░░░   60.00 %
+C++          2 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.69 %
+JSON         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
