@@ -87,14 +87,14 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 October 2022 - To: 09 October 2022
+From: 03 October 2022 - To: 10 October 2022
 
-JavaScript   15 hrs 45 mins  ███████████████████░░░░░░   75.74 %
-C++          2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-HTML         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Markdown     31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Bash         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+JavaScript   15 hrs 45 mins  █████████████████████░░░░   84.55 %
+HTML         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Markdown     31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Bash         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Git Config   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
