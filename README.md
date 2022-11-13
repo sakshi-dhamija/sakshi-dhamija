@@ -87,11 +87,7 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
-
-Java   2 hrs 13 mins   ████████████████████████▓   99.15 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Perl   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
