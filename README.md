@@ -87,12 +87,9 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 November 2022 - To: 19 November 2022
+From: 13 November 2022 - To: 20 November 2022
 
-Python   14 mins         ████████████▓░░░░░░░░░░░░   50.05 %
-Java     12 mins         ██████████▓░░░░░░░░░░░░░░   43.07 %
-Perl     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
