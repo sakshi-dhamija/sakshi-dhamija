@@ -87,7 +87,11 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 11 December 2022 - To: 18 December 2022
+
+JavaScript   50 mins         ██████████████████████░░░   87.87 %
+Bash         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
