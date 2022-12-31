@@ -87,14 +87,10 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-JavaScript   3 hrs 9 mins    ██████████████████▒░░░░░░   73.81 %
-Markdown     50 mins         █████░░░░░░░░░░░░░░░░░░░░   19.45 %
-Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JavaScript   16 mins         █████████████████████▓░░░   86.46 %
+JSON         2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
 ```
 
 <!--END_SECTION:waka-->
