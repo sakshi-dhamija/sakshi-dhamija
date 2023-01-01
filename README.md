@@ -87,10 +87,7 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
-
-JavaScript   16 mins         █████████████████████▓░░░   86.46 %
-JSON         2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
