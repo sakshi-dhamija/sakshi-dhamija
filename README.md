@@ -87,7 +87,7 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 January 2023 - To: 07 February 2023
+From: 01 February 2023 - To: 08 February 2023
 
 Java             6 hrs 50 mins   ████████████████████░░░░░   80.35 %
 YAML             1 hr 32 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
