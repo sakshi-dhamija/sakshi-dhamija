@@ -87,14 +87,13 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2023 - To: 02 March 2023
+From: 24 February 2023 - To: 03 March 2023
 
-Java             4 hrs 1 min     ████████████████████▒░░░░   80.68 %
-XML              24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-YAML             18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-GitIgnore file   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-CLASS            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Docker           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Java             2 hrs 3 mins    ███████████████████████░░   92.29 %
+GitIgnore file   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+XML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+YAML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
