@@ -87,12 +87,9 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 07 March 2023
+From: 01 March 2023 - To: 08 March 2023
 
-Java             1 hr 39 mins    ███████████████████████░░   92.52 %
-GitIgnore file   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-YAML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Java   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
