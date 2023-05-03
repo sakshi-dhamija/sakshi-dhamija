@@ -87,9 +87,14 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2023 - To: 01 May 2023
+From: 25 April 2023 - To: 02 May 2023
 
-Java   0 secs          █████████████████████████   100.00 %
+Java             3 hrs 39 mins   █████████████████████░░░░   83.78 %
+YAML             38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+XML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Docker           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
