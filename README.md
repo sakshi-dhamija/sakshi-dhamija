@@ -87,7 +87,7 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 08 December 2023
+From: 02 December 2023 - To: 09 December 2023
 
 Java              12 hrs 35 mins  █████████████████▓░░░░░░░   70.96 %
 XML               2 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
