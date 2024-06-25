@@ -87,10 +87,11 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2024 - To: 23 June 2024
+From: 17 June 2024 - To: 24 June 2024
 
-Java   57 mins         ███████████████████████▓░   94.01 %
-XML    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Java   2 hrs 9 mins    ████████████████████████▒   96.96 %
+XML    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
