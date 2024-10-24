@@ -87,12 +87,10 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2024 - To: 22 October 2024
+From: 16 October 2024 - To: 23 October 2024
 
-Java             3 hrs 38 mins   ████████████████████▓░░░░   82.18 %
-XML              28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-YAML             16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Java   1 hr 36 mins    ████████████████████████▓   98.79 %
+XML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
