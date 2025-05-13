@@ -87,9 +87,13 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2025 - To: 11 May 2025
+From: 05 May 2025 - To: 12 May 2025
 
-Go   19 mins         █████████████████████████   100.00 %
+Go         4 hrs 47 mins   ██████████████████████▓░░   90.56 %
+YAML       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+HTML       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
