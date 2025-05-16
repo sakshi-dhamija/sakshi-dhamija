@@ -87,13 +87,13 @@ Visitor Count:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2025 - To: 14 May 2025
+From: 08 May 2025 - To: 15 May 2025
 
-Go             4 hrs 59 mins   ███████████▓░░░░░░░░░░░░░   46.16 %
-JavaScript     3 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   28.26 %
-Bash           27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-JSON           27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-TypeScript     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+JavaScript     6 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   40.11 %
+Go             5 hrs 48 mins   █████████░░░░░░░░░░░░░░░░   35.45 %
+Other          56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+TypeScript     46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+HTTP Request   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
