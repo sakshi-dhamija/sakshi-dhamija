@@ -1,120 +1,38 @@
-### <h1 align='center'>Heyy👋, Myself Sakshi</h1>
+<h1 align="center">🌱 Hey there, I'm Sakshi Dhamija</h1>
 
-
-
-<!--
-**secrashi/secrashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-🤔 I’m looking for help with ...
-📫 How to reach me: 
- - <img src= " https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/> 8349046111
- - <img src= "https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> sakshidhamija15@gmail.com
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secrashi&theme=tokyonight)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=secrashi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secrashi&layout=compact)](https://github.com/secrashi/github-readme-stats)
-[![Instagram Badge](https://img.shields.io/badge/-@savi.1311-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/savi.1311/)](https://www.instagram.com/savi.1311/)
-
-
-
- 
- 👯 I’m looking to collaborate on projects that use multiple technologies to innovate a better product.
- 
- 
-  
- ⚡ Fun fact: I'm neither tea nor coffee person!
- <img src="https://github.com/secrashi/secrashi/blob/main/images/stat.svg" alt="WakaTime Activity"/>
--->
-
-<!-- 🔭 I’m a Web Developer, Graphic Designer, and a Creative Content writer pursuing BTech in CSE.
-
- 🌱 I’m currently learning Augmented Reality and Virtual Reality.
- 
- 💬 Reach out to me for designing web page, building websites from scratch, handling the backends, and definitely for reccomending some awesome books. -->
-
-
-
- ```C++
- short whoAmI(){
-    user='Sakshi Dhamija';
-    currentEducation="CS Undergraduate'23";
-    skills[]= {WebDevelopment, Programmimg, GraphicDesigning, InternetOfThings, ContentWriting};
-    return height;
- }
- ```
-<!--  ```Javascript
- function dailyTimeSpent(){
-  code= 0.05;
-  debug= 0.6;
-  write= 0.15;
-  read= 0.2;
- }
- 
- ``` -->
-<!--  
- ```python
- class Current:
-       contribute: 'open_source'
-       read: 'The Alchemist'
-       listen: 'gate_smashers'
-       practice: 'geeksforgeeks'
- ``` -->
-<!--  ```javascript
- Connect()
- {
-   Linkedln: https://www.linkedin.com/in/s15/ 
-   Gmail: sakshidhamija15@gmail.com 
-   Quora: https://www.quora.com/profile/Sakshi-561
-   Instagram: https://www.instagram.com/_._s.i.r.i.u.s.l.y_._/
- }
- ``` -->
-<!-- ### <h1 align='center'>Stats();</h1> -->
-
- 
-👯 I would love to discuss and collaborate on projects involving multiple technologies, innovative ideas and awesome book recommendations.
-
- 📫 Read my blogs on [medium](https://sakshi-secrashi.medium.com/). My latest blog posts are [Network Topologies](https://sakshi-secrashi.medium.com/network-topologies-9aaf05e13a0b), [What happens when you hit a url](https://sakshi-secrashi.medium.com/what-happens-when-you-hit-a-url-81f676868062) and [Are Smart Contracts getting smarter with IoT](https://medium.com/tech-iiitg/are-smart-contracts-getting-smarter-with-iot-8001887d6696).
- 
-  💬 Reach out to me at [Mail](sakshidhamija15@gmail.com) | [LinkedIn](https://www.linkedin.com/in/s15/) | [Twitter](https://twitter.com/Sakshi14391573?t=hGrG1y8W_wqIk8JBlpQSkg&s=09) | [Instagram]( https://www.instagram.com/_._s.i.r.i.u.s.l.y_._/) | [Facebook](https://www.facebook.com/sakshi.dhamija.522) | [Quora](https://www.quora.com/profile/Sakshi-561) | [Medium](https://sakshi-secrashi.medium.com/).
-
-Visitor Count:
-
-![Visitor Count](https://profile-counter.glitch.me/secrashi/count.svg) 
-
-
-
-<h2 align='center'>Stats</h2>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 18 October 2025 - To: 25 October 2025
-
-Go           45 mins         █████████████████▒░░░░░░░   68.94 %
-C++          18 mins         ███████░░░░░░░░░░░░░░░░░░   27.98 %
-TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-```
-
-<!--END_SECTION:waka-->
-
-
-<!-- <p align="center">
-I joined GitHub <b>{{ ACCOUNT_AGE }}</b> years ago.<br>
-Since then I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests, received <b>{{ STARS }}</b> stars across <b>{{ REPOSITORIES }}</b> personal projects, contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> public repositories, and reviewed <b>{{ CODE_REVIEWS }}</b> pull requests.
+<p align="center">
+  <a href="mailto:sakshidhamija15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sakshi-dhamija/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Sakshi14391573"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://sakshi-secrashi.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
- -->
 
-<!-- <h2 align='center'>GitHub Stats</h2> -->
+---
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=secrashi)](https://git.io/streak-stats) -->
- 
- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=think_upon_it&theme=unicorn)
- 
- 
- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-dhamija&show_icons=true&theme=highcontrast)
+<h3 align="center">Backend Engineer @ <a href="https://www.wayground.in">Wayground</a> | ex-<a href="https://groww.in">Groww</a></h3>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-dhamija&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
+<p align="center">
+I enjoy building <b> backend systems</b> and love the process of making them better with every iteration.  
+Currently working in the <b>tech-ed</b> space (previously in <b>fintech</b>), experimenting with ideas that stick.
+</p>
+
+---
+
+### 🧠 Currently Exploring
+- Learning **Golang** and sharpening **problem-solving** skills  
+- Diving into **AI tools** — I love how they simplify workflows, leave space for creativity, and make learning faster  
+- Building things faster, cleaner, and smarter — one iteration at a time  
+- Creating content and sharing what I learn along the way  
+
+---
+
+### 💭 A Bit More About Me
+- I enjoy learning by doing — from new backend frameworks to system design experiments  
+- I like figuring out how things work (and sometimes, how to make them break 😄)  
+- I love talking about random things — tech, life, ideas —  
+  feel free to say hi anytime, I’ll definitely leave you with something interesting ✨  
 
 
+---
+
+<p align="center"><i>“Learning how to make things simple, and systems smarter.”</i></p>
